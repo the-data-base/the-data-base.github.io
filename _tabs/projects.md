@@ -1,5 +1,5 @@
 ---
-title: Portfolio
+title: Projects
 icon: fas fa-code
 order: 4
 ---
