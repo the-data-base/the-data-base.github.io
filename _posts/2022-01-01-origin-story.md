@@ -23,13 +23,13 @@ Keep on reading to learn about how the group came into being.
 
 
 ## Humble beginnings
-Back in 2018, three business students began their careers as data analysts in Vancouver, BC. The first started in the retail industry. The second worked in the public health. The third began in the telecom industry.
+Back in 2018, three business students began their careers as data analysts in Vancouver, BC. The first started in the retail industry. The second worked in public health. The third began in the telecom industry.
 
 Eventually, these three would be reunited at Best Buy Canada. It was during this time where the three young data professionals developed into high-performers, driven by a shared love of learning, and memes. Especially dank memes.
 
-This desire for continuous improvement stretched beyond their 9-5's, and was practiced through various side projects. As their skills sharpened, so did the quality (and complexity) of their projects. From from scraping and summarizing data from websites, to deploying data science apps with python and streamlit.
+This desire for continuous improvement stretched beyond their 9-5's, and was practiced through various side projects. As their skills sharpened, so did the quality (and complexity) of their projects. From scraping and summarizing data on websites, to deploying data science apps with python and streamlit.
 
-By 2021, the three now-senior data professionals decided it was time to take the next steps in their careers. The first and second moved to new organizations in Data Scientist roles, while the third moved began his journey as Data Engineer.
+By 2021, the three now-senior data professionals decided it was time to take the next steps in their respective careers. The first and second moved to new organizations in Data Scientist roles, while the third moved began his journey as Data Engineer.
 
 ## The slack channel
 The group would meet regularly outside of work-hours to chat about life, hiking, and data. Upon reflection of their maturity from non-technical business students to highly-technical data profesionals, the three were especially grateful for the learnings made through side projects.
