@@ -19,7 +19,7 @@ If you already have a Google Account, skip to the next step.
 
 ## 👉 Access our NHL Data in BigQuery
 
-1. Post in the `_nhl_stats_api` channel with your Gmail address and wait for us to grant you access
+1. Post in the `_nhl-stats-api` channel with your Gmail address and wait for us to grant you access
 2. Star our project to your BigQuery console by clicking **Add** in the [Explorer](https://cloud.google.com/bigquery/docs/bigquery-web-ui#starring_adding_a_project) pane
    - Click the "star a project by name" option
    - Enter our project name `nhl-breakouts`
